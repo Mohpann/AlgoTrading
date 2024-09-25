@@ -6,5 +6,7 @@ Please add first commit below:
 
 -- ENTER FIRST AND LAST NAME BELOW -- \
 Alessandro Marina \
-Marco Laurenzi 
-Nathan Parikh
+Marco Laurenzi \
+Nathan Parikh \
+Markus Perez \
+Shashank Chenna
