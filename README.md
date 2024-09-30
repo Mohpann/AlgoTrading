@@ -12,4 +12,5 @@ Jae Park \
 Nathan Parikh \
 Markus Perez \
 Shashank Chenna \
-Max Nguyen
+Max Nguyen \
+Zayd Alzein 
