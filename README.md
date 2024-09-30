@@ -11,5 +11,6 @@ Marco Laurenzi \
 Jae Park \
 Nathan Parikh \
 Markus Perez \
-Shashank Chenna
-Rahul Gowda \
+Shashank Chenna \
+Max Nguyen \
+Zayd Alzein 
