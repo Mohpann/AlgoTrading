@@ -13,3 +13,5 @@ Nathan Parikh \
 Markus Perez \
 Shashank Chenna \
 Dev Patel \
+Max Nguyen \
+Zayd Alzein 
