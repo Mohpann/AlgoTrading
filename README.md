@@ -18,6 +18,9 @@ Zayd Alzein \
 Rahul Gowda \
 Edward Weng
 
+# How to Contribute
+See "issues" tab above and address whichever one you want. Instructions and guidance are provided in the files as comments.
+
 # Currently working on
 Sentiment analysis using NLP \
 Mean Reversion implementing strategy from Ernest Chan's book, "Algorithmic Trading" \
