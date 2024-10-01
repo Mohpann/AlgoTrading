@@ -12,3 +12,4 @@ This output will later be fed to the sentiment analysis program
 
 TO DO: Implement basic functionality for getting the top 5 headlines about DJT (Trump Media)
 - Hint use requests library to send GET request to API endpoint url
+'''
