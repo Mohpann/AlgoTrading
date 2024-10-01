@@ -15,7 +15,8 @@ Shashank Chenna \
 Dev Patel \
 Max Nguyen \
 Zayd Alzein \
-Rahul Gowda
+Rahul Gowda \
+Edward Weng
 
 # Currently working on
 Sentiment analysis using NLP \
