@@ -16,6 +16,7 @@ Dev Patel \
 Max Nguyen \
 Zayd Alzein \
 Rahul Gowda \
+Sammy Patel \
 Edward Weng
 
 # How to Contribute
