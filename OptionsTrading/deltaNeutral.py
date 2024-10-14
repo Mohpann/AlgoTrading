@@ -15,6 +15,7 @@ The formula of delta = Change in the Price of Asset / Change in the Price of Und
 '''
 ##--------------------------------------------------------------------
 #DELTA FOR DJT
+#note: didnt need to calculate delta of option because of existing information in yfinance
 import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -30,6 +31,7 @@ def fetch_option_data(ticker, expiration_date):
 def calculate_delta(options_data):
     return options_data[['strike', 'delta']]
 
+#plot changes in delta of option
 def plot_delta(calls_delta, puts_delta, expiration_date):
     plt.figure(figsize=(12, 6))
     plt.plot(calls_delta['strike'], calls_delta['delta'], label='Calls Delta')
