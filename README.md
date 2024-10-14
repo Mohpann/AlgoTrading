@@ -16,7 +16,8 @@ Dev Patel \
 Max Nguyen \
 Zayd Alzein \
 Rahul Gowda \
-Edward Weng
+Edward Weng \
+Max Le
 
 # How to Contribute
 See "issues" tab above and address whichever one you want. Instructions and guidance are provided in the files as comments.
