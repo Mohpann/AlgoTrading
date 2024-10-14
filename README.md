@@ -17,6 +17,7 @@ Max Nguyen \
 Zayd Alzein \
 Rahul Gowda \
 Edward Weng \
+Edward Weng \
 Max Le
 
 # How to Contribute
