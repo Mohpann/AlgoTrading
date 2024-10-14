@@ -16,7 +16,7 @@ Dev Patel \
 Max Nguyen \
 Zayd Alzein \
 Rahul Gowda \
-Edward Weng \
+Sammy Patel \
 Edward Weng \
 Max Le
 
