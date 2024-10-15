@@ -17,7 +17,8 @@ Max Nguyen \
 Zayd Alzein \
 Rahul Gowda \
 Sammy Patel \
-Edward Weng
+Edward Weng \
+Max Le
 
 # How to Contribute
 See "issues" tab above and address whichever one you want. Instructions and guidance are provided in the files as comments.
