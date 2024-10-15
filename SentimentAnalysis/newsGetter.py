@@ -28,7 +28,7 @@ def get_top_headlines(company_symbol, num_headlines=5):
     url = "https://api.dowjones.com/v1/stories/top"
 
     # API key should be stored in an environment variable for security
-    api_key = os.getenv("DOW_JONES_API_KEY")
+    api_key = os.getenv("DOW_JONES_API_KEY") #<-insert real api key here in DOW_JONES_API_KEY
 
     # Parameters for the API request
     params = {
@@ -60,7 +60,7 @@ def get_top_headlines(company_symbol, num_headlines=5):
 
 # Example usage
 if __name__ == "__main__":
-    company_symbol = "DJT"  # Trump Media symbol
+    company_symbol = "DJT"  # Trump Media symbol, could also consider creating input func so that its more flexible
     headlines = get_top_headlines(company_symbol)
     
     print(f"Top 5 headlines for {company_symbol}:")
