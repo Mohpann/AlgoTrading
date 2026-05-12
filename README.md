@@ -18,6 +18,7 @@ Zayd Alzein \
 Rahul Gowda \
 Sammy Patel \
 Edward Weng
+Shaurya Iyer
 
 # How to Contribute
 See "issues" tab above and address whichever one you want. Instructions and guidance are provided in the files as comments.
